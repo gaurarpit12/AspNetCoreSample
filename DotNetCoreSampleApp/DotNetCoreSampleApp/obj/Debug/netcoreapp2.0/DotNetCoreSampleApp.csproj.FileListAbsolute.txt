@@ -1,0 +1,11 @@
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\bin\Debug\netcoreapp2.0\DotNetCoreSampleApp.deps.json
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\bin\Debug\netcoreapp2.0\DotNetCoreSampleApp.runtimeconfig.json
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\bin\Debug\netcoreapp2.0\DotNetCoreSampleApp.runtimeconfig.dev.json
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\bin\Debug\netcoreapp2.0\DotNetCoreSampleApp.dll
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\bin\Debug\netcoreapp2.0\DotNetCoreSampleApp.pdb
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\obj\Debug\netcoreapp2.0\DotNetCoreSampleApp.csprojResolveAssemblyReference.cache
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\obj\Debug\netcoreapp2.0\DotNetCoreSampleApp.csproj.CoreCompileInputs.cache
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\obj\Debug\netcoreapp2.0\DotNetCoreSampleApp.AssemblyInfoInputs.cache
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\obj\Debug\netcoreapp2.0\DotNetCoreSampleApp.AssemblyInfo.cs
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\obj\Debug\netcoreapp2.0\DotNetCoreSampleApp.dll
+D:\Microsoft-ImplementationProjects\POC-MG-Extranet\DotNetCoreSampleApp\DotNetCoreSampleApp\obj\Debug\netcoreapp2.0\DotNetCoreSampleApp.pdb
